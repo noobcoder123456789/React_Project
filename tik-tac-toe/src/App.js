@@ -19,6 +19,7 @@ function Board() {
 		<BoardRow value1={1} value2={2} value3={3} />
 		<BoardRow value1={4} value2={5} value3={6} />
 		<BoardRow value1={7} value2={8} value3={9} />
+		<BoardRow value1={7} value2={8} value3={9} />
 	</>);
 }
 
